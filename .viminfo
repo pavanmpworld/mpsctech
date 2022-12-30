@@ -14,10 +14,10 @@
 ~Msle0~/\<Import\>
 
 # Command Line History (newest to oldest):
-:wq
-|2,0,1672400646,,"wq"
 :q!
-|2,0,1672125767,,"q!"
+|2,0,1672402115,,"q!"
+:wq
+|2,0,1672401984,,"wq"
 
 # Search String History (newest to oldest):
 ? \<Import\>
@@ -38,34 +38,64 @@
 |3,1,36,0,1,0,1672123241,"s"
 
 # File marks:
-'0  1  7  ~/.gitignore
-|4,48,1,7,1672400646,"~/.gitignore"
-'1  1  7  ~/gitignore
-|4,49,1,7,1672400622,"~/gitignore"
-'2  2  0  ~/mpsctech/test/test.py
-|4,50,2,0,1672400306,"~/mpsctech/test/test.py"
-'3  2  0  ~/mpsctech/mp.py
-|4,51,2,0,1672399427,"~/mpsctech/mp.py"
-'4  6  0  ~/mpsctech/mp.py
-|4,52,6,0,1672399151,"~/mpsctech/mp.py"
-'5  6  0  ~/mpsctech/mp.py
-|4,53,6,0,1672399151,"~/mpsctech/mp.py"
-'6  4  82  ~/mpsctech/mp.py
-|4,54,4,82,1672125767,"~/mpsctech/mp.py"
-'7  10  0  ~/mpsctech/mp.py
-|4,55,10,0,1672125767,"~/mpsctech/mp.py"
+'0  172  0  ~/.viminfo
+|4,48,172,0,1672402115,"~/.viminfo"
+'1  2  0  ~/newmpsctech/mp.py
+|4,49,2,0,1672401984,"~/newmpsctech/mp.py"
+'2  1  7  ~/.gitignore
+|4,50,1,7,1672400646,"~/.gitignore"
+'3  1  7  ~/gitignore
+|4,51,1,7,1672400622,"~/gitignore"
+'4  2  0  ~/mpsctech/test/test.py
+|4,52,2,0,1672400306,"~/mpsctech/test/test.py"
+'5  2  0  ~/mpsctech/mp.py
+|4,53,2,0,1672399427,"~/mpsctech/mp.py"
+'6  6  0  ~/mpsctech/mp.py
+|4,54,6,0,1672399151,"~/mpsctech/mp.py"
+'7  6  0  ~/mpsctech/mp.py
+|4,55,6,0,1672399151,"~/mpsctech/mp.py"
 '8  4  82  ~/mpsctech/mp.py
 |4,56,4,82,1672125767,"~/mpsctech/mp.py"
 '9  10  0  ~/mpsctech/mp.py
 |4,57,10,0,1672125767,"~/mpsctech/mp.py"
 
 # Jumplist (newest first):
+-'  172  0  ~/.viminfo
+|4,39,172,0,1672402115,"~/.viminfo"
+-'  1  0  ~/.viminfo
+|4,39,1,0,1672402099,"~/.viminfo"
+-'  2  0  ~/newmpsctech/mp.py
+|4,39,2,0,1672401984,"~/newmpsctech/mp.py"
+-'  2  0  ~/newmpsctech/mp.py
+|4,39,2,0,1672401984,"~/newmpsctech/mp.py"
+-'  1  0  ~/newmpsctech/mp.py
+|4,39,1,0,1672401978,"~/newmpsctech/mp.py"
+-'  1  0  ~/newmpsctech/mp.py
+|4,39,1,0,1672401978,"~/newmpsctech/mp.py"
+-'  1  7  ~/.gitignore
+|4,39,1,7,1672400646,"~/.gitignore"
+-'  1  7  ~/.gitignore
+|4,39,1,7,1672400646,"~/.gitignore"
+-'  1  7  ~/.gitignore
+|4,39,1,7,1672400646,"~/.gitignore"
 -'  1  7  ~/.gitignore
 |4,39,1,7,1672400646,"~/.gitignore"
 -'  1  7  ~/gitignore
 |4,39,1,7,1672400622,"~/gitignore"
 -'  1  7  ~/gitignore
 |4,39,1,7,1672400622,"~/gitignore"
+-'  1  7  ~/gitignore
+|4,39,1,7,1672400622,"~/gitignore"
+-'  1  7  ~/gitignore
+|4,39,1,7,1672400622,"~/gitignore"
+-'  1  7  ~/gitignore
+|4,39,1,7,1672400622,"~/gitignore"
+-'  1  7  ~/gitignore
+|4,39,1,7,1672400622,"~/gitignore"
+-'  1  7  ~/gitignore
+|4,39,1,7,1672400622,"~/gitignore"
+-'  1  7  ~/gitignore
+|4,39,1,7,1672400622,"~/gitignore"
 -'  2  0  ~/mpsctech/test/test.py
 |4,39,2,0,1672400306,"~/mpsctech/test/test.py"
 -'  2  0  ~/mpsctech/test/test.py
@@ -74,6 +104,54 @@
 |4,39,2,0,1672400306,"~/mpsctech/test/test.py"
 -'  2  0  ~/mpsctech/test/test.py
 |4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  2  0  ~/mpsctech/test/test.py
+|4,39,2,0,1672400306,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
+-'  1  0  ~/mpsctech/test/test.py
+|4,39,1,0,1672400283,"~/mpsctech/test/test.py"
 -'  1  0  ~/mpsctech/test/test.py
 |4,39,1,0,1672400283,"~/mpsctech/test/test.py"
 -'  1  0  ~/mpsctech/test/test.py
@@ -98,6 +176,54 @@
 |4,39,2,0,1672399427,"~/mpsctech/mp.py"
 -'  2  0  ~/mpsctech/mp.py
 |4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
+-'  2  0  ~/mpsctech/mp.py
+|4,39,2,0,1672399427,"~/mpsctech/mp.py"
 -'  1  0  ~/mpsctech/mp.py
 |4,39,1,0,1672399421,"~/mpsctech/mp.py"
 -'  1  0  ~/mpsctech/mp.py
@@ -114,154 +240,39 @@
 |4,39,1,0,1672399421,"~/mpsctech/mp.py"
 -'  1  0  ~/mpsctech/mp.py
 |4,39,1,0,1672399421,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399415,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399415,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399415,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399415,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399415,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399415,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399415,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399415,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399151,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399151,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399151,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399151,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399151,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399151,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399151,"~/mpsctech/mp.py"
--'  6  0  ~/mpsctech/mp.py
-|4,39,6,0,1672399151,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  4  82  ~/mpsctech/mp.py
-|4,39,4,82,1672399010,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125767,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125437,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125437,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125437,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125437,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125437,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125437,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125437,"~/mpsctech/mp.py"
--'  10  0  ~/mpsctech/mp.py
-|4,39,10,0,1672125437,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
--'  5  0  ~/mpsctech/mp.py
-|4,39,5,0,1672125166,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
+-'  1  0  ~/mpsctech/mp.py
+|4,39,1,0,1672399421,"~/mpsctech/mp.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/.viminfo
+	*	1672402112	0
+	"	172	0
+
+> ~/newmpsctech/mp.py
+	*	1672401983	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
 
 > ~/.gitignore
 	*	1672400645	0
